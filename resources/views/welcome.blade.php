@@ -121,13 +121,14 @@
                             </a>
                         </div>
                     </div>
-		    <span style="color: red;font-size: 18px">功能点正在开发中...</span>
+		            <span style="color: red;font-size: 18px">功能点正在开发中...</span>
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>
                 </div>
             </div>
         </div>
-	<div style="text-align:center; color: #999999;font-size: 14px"><span>网站备案/许可证号</span>：<a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021055695号-1</a></div>
+        {{--    测试一下    --}}
+	    <div style="text-align:center; color: #999999;font-size: 14px"><span>网站备案/许可证号</span>：<a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021055695号-1</a></div>
     </body>
 </html>
