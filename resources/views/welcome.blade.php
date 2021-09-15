@@ -121,7 +121,7 @@
                             </a>
                         </div>
                     </div>
-
+		    <span style="color: red;font-size: 18px">功能点正在开发中...</span>
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>
