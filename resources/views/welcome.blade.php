@@ -128,5 +128,6 @@
                 </div>
             </div>
         </div>
+	<div style="text-align:center; color: #999999;font-size: 14px"><span>网站备案/许可证号</span>：<a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021055695号-1</a></div>
     </body>
 </html>
